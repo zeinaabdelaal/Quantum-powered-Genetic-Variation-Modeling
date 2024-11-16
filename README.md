@@ -8,3 +8,10 @@ Understanding the genetic makeup of a population is crucial for advancing health
 
 To explore the code yourself, open the code file in Google Colab. Simply run the installation and import blocks, and you’ll be ready to dive into quantum-powered genetics!
 
+Made by team *3abakra bs 3ady*:
+
+Zeina Abdelaal   
+Farah Abdelaal  
+Farah Haitham  
+Ahmed Shawki
+
